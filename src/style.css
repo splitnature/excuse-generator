@@ -1,0 +1,13 @@
+@import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  height: 500px;
+}
+
+#excuse {
+  font-family: "Open Sans", sans-serif;
+}
